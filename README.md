@@ -1,1 +1,1 @@
-# Swarm-Algorithm
+# Swarm Algorithms
